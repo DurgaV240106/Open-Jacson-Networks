@@ -1,5 +1,5 @@
-## NAME : VARNIKA.P
-## REG.NO: 212223240170
+## NAME : DURGA V
+## REG.NO: 212223230052
 
 ## EX-6 : Series Queues with infinite capacity - Open Jackson Network
 
